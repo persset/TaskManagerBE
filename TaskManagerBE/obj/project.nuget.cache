@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QNnn0NiBG38=",
+  "dgSpecHash": "YEyO3RbzDBo=",
   "success": true,
-  "projectFilePath": "d:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj",
+  "projectFilePath": "D:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
