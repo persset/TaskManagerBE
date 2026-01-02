@@ -1,6 +1,6 @@
 namespace TaskManagerBE.Models
 {
-    public class TaskResponseDTO
+    public class TaskReadDTO
     {
         public int Id { get; set; }
         public string Title { get; set; } = "";
@@ -8,6 +8,6 @@ namespace TaskManagerBE.Models
         public int StatusId { get; set; }
         public DateTime CompletedAt { get; set; }
         public DateTime DueDate { get; set; }
-        public List<UserResponseDTO> AssignedUsers { get; set; } = new List<UserResponseDTO>();
+        public List<UserReadDTO> AssignedUsers { get; set; } = new List<UserReadDTO>();
     }
 }
