@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using TaskManagerBE.Data;
 
-namespace TaskManagerBE.Services.User
+namespace TaskManagerBE.Services
 {
     public class UserService : IUserService
     {
