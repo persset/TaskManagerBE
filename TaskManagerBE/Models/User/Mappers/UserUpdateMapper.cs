@@ -2,9 +2,9 @@ using TaskManagerBE.MapperBase;
 
 namespace TaskManagerBE.Models
 {
-    public class UserUpdateMapper : IUpdateMapper<UserCreateDTO, User>
+    public class UserUpdateMapper : IUpdateMapper<User, UserUpdateDTO>
     {
-        public void MapToEntity(UserCreateDTO entity, User dto)
+        public void MapToEntity(User entity, UserUpdateDTO dto)
         {
             entity.Name = dto.Name;
             entity.Email = dto.Email;
