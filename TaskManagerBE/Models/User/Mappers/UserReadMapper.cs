@@ -2,7 +2,7 @@ using TaskManagerBE.MapperBase;
 
 namespace TaskManagerBE.Models
 {
-    public class UserReadMappers : IReadMapper<User, UserReadDTO>
+    public class UserReadMapper : IReadMapper<User, UserReadDTO>
     {
         public UserReadDTO ToDto(User entity)
         {
