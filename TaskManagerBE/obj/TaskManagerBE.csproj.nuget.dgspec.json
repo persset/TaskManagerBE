@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj": {}
+    "d:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj": {}
   },
   "projects": {
-    "D:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj": {
+    "d:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj",
+        "projectUniqueName": "d:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj",
         "projectName": "TaskManagerBE",
-        "projectPath": "D:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj",
+        "projectPath": "d:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\TaskManagerBE.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "D:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\obj\\",
+        "outputPath": "d:\\Folder\\Code\\Projects\\TaskManager\\TaskManagerBE\\TaskManagerBE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
