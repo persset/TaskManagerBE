@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using TaskManagerBE.MapperBase;
 using TaskManagerBE.Models;
-using TaskManagerBE.Services.User;
+using TaskManagerBE.Services;
 
 namespace TaskManagerBE.Controller
 {

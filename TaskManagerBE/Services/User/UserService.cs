@@ -25,7 +25,7 @@ namespace TaskManagerBE.Services
         {
             var user = await dataContext.Users.FindAsync(id);
 
-            if (user == null)
+            if (user is null)
                 return null;
 
             dataContext.Users.Remove(user);
