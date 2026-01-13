@@ -44,7 +44,7 @@ namespace TaskManagerBE.Services
         {
             var user = await dataContext.Users.FindAsync(id);
 
-            if (user == null)
+            if (user is null)
                 return null;
 
             return user;
@@ -54,7 +54,7 @@ namespace TaskManagerBE.Services
         {
             var user = await dataContext.Users.FindAsync(id);
 
-            if (user == null)
+            if (user is null)
                 return null;
 
             user.Name = entity.Name;
